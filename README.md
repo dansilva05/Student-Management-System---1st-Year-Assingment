@@ -15,4 +15,4 @@ It is a simple **Student Management System** built as a beginner project. The sy
 
 Each Student can have Grades and Comments added to them.
 
-![Thumbs up GIF]([images/demo.png](https://i.makeagif.com/media/12-20-2015/lWg9-r.gif))
+![Thumbs up GIF](https://i.makeagif.com/media/12-20-2015/lWg9-r.gif)
